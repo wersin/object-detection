@@ -20,7 +20,7 @@ This is the Main Activity of the Sign Detect App.
 It is like a settings Activity.
 It handles the selected Classifier and launches a new Activity if required.
 
-<img src="../android-pres/scrot01.png" width="330" height="600"/>
+<img src="../img/scrot01.png" width="330" height="600"/>
 
 # Open Camera:
 When everything is ready user may start the camera with the desired classifier.
@@ -28,5 +28,5 @@ In this Intent the speeds (the selected classifier) are passed onto the Activity
 which handles the camera.
 An Example of what it looks like when a Sign is detected:
 
-<img src="../android-pres/scrot00.png" width="600" height="330"/>
+<img src="../img/scrot00.png" width="600" height="330"/>
 

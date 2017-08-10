@@ -24,13 +24,13 @@ speed traffic signs and displays what it has found.
 The App has a simple UI to choose from the different cascades to evaluate. Since the amount of processing power required 
 to evaluate one cascade and draw the found traffic sign takes some time you have to chose which one to actually evaluate.
 
-<img src="android-pres/scrot01.png" width="330" height="600"/>
+<img src="img/scrot01.png" width="330" height="600"/>
 
 * The Speed Meter Button launches a new Activity in which the current Speed in
 [m/s] is measured based on GPS Location data.
 * With the Open Camera Button Camera launches in a new Activity and the elected cascade starts evaluating the frames.
 
-<img src="android-pres/scrot00.png" width="600" height="330"/>
+<img src="img/scrot00.png" width="600" height="330"/>
 
 This is what the app looks like when running
 
