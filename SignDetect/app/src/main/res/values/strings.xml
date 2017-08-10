@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sign Detect</string>
+    <string name="start_camera">Open Camera</string>
+    <string name="speed_view">Speed meter</string>
+    <string name="speed_text">000.00 meters/second</string>
+    <string name="send_text">Send Test</string>
+
+    <string name="thirty">Thirty (30)</string>
+    <string name="forty">Forty (40)</string>
+    <string name="fifty">Fifty (50)</string>
+    <string name="sixty">Sixty (60)</string>
+    <string name="one_twenty">OneTwenty (120)</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
